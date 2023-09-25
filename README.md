@@ -8,6 +8,8 @@ The traditional machine learning models used for forecasts (multi and single ste
 Random forest, SVM and Linear regression    
 
 The deep learning neural networks used for forecasts (multi and single step forecasts) are:  
-ANN, CNN, GRU and LSTM
+ANN, CNN, GRU and LSTM  
+
+The airplane passengers - https://www.kaggle.com/datasets/chirag19/air-passengers and human activity recognition (HAR) - https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset datasets were used.  
 
 ![image](https://github.com/Ogunfool/Timeseries-Data-Analysis-and-Forecasting/assets/92188038/dd109ece-bba9-4df9-a3b7-f829ac63b9de)
